@@ -10,5 +10,5 @@ This repository contains all of the notes taken by [Belal](https://github.com/be
 
 ## Table of Contents
 
-- Week 1
-  - Day 1
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
