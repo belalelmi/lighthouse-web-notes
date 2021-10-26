@@ -7,3 +7,8 @@
 ## Summary
 
 This repository contains all of the notes taken by [Belal](https://github.com/belalelmi) for the Lighthouse Labs Web Development Bootcamp.
+
+## Table of Contents
+
+- Week 1
+  - Day 1
