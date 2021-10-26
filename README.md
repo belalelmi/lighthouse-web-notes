@@ -6,6 +6,4 @@
 
 ## Summary
 
-```shell
 This repository contains all of the notes taken by [Belal](https://github.com/belalelmi) for the Lighthouse Labs Web Development Bootcamp.
-```
